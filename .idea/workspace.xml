@@ -58,13 +58,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProcessorMapTest.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProcessorMapTest.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shared/src_test/de/patrickkulling/as3workers/processor/ProcessorMapTest.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="56" selection-start="1275" selection-end="1275" vertical-scroll-proportion="2.4148607">
+            <state line="52" column="56" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-14.181818">
               <folding>
                 <element signature="e#50#91#0" expanded="true" />
                 <element signature="e#1188#1244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/as3workers/src/de/patrickkulling/as3workers/Main.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.04109589">
+              <folding>
+                <element signature="e#41#95#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,12 +169,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleWorker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleWorker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as3workers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/shared/src_test" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ExampleWorker/src" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -184,6 +251,9 @@
   <component name="RecentsManager">
     <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
       <recent name="de.patrickkulling.as3workers.command" />
+    </key>
+    <key name="com.intellij.javascript.flex.refactoring.moveClass.FlexMoveClassDialog.target_package">
+      <recent name="de.patrickkulling.as3workers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/shared/src/de/patrickkulling/as3workers/command" />
@@ -523,11 +593,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/as3workers/src/de/patrickkulling/as3workers/processor/ReceivePongCommand.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="286" selection-end="286" vertical-scroll-proportion="0.36458334" />
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/tools/sdks/flex/flex_sdk_4.6_fp_11_4b/frameworks/libs/player/11.1/playerglobal.swc!/library.swf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5171" column="25" selection-start="219609" selection-end="219609" vertical-scroll-proportion="0.0" />
@@ -542,15 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="24" selection-start="100" selection-end="100" vertical-scroll-proportion="0.104166664">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/as3workers/src/de/patrickkulling/as3workers/Main.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.026642984">
-          <folding>
-            <element signature="e#41#95#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExampleWorker/src/ExampleWorker.as">
+    <entry file="file://$PROJECT_DIR$/ExampleWorker/src/de/patrickkulling/as3workers/ExampleWorker.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="62" selection-start="205" selection-end="205" vertical-scroll-proportion="-0.484375">
           <folding />
@@ -598,10 +654,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shared/src_test/de/patrickkulling/as3workers/processor/ProcessorMapTest.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="56" selection-start="1275" selection-end="1275" vertical-scroll-proportion="2.4148607">
+        <state line="52" column="56" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-14.181818">
           <folding>
             <element signature="e#50#91#0" expanded="true" />
             <element signature="e#1188#1244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/as3workers/src/de/patrickkulling/as3workers/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.04109589">
+          <folding>
+            <element signature="e#41#95#0" expanded="true" />
           </folding>
         </state>
       </provider>

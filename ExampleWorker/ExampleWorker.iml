@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="ExampleWorker">
     <configurations>
-      <configuration name="ExampleWorker" pure-as="true" main-class="ExampleWorker" output-file="ExampleWorker.swf" output-folder="$MODULE_DIR$/../out/production/ExampleWorker" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+      <configuration name="ExampleWorker" pure-as="true" main-class="de.patrickkulling.as3workers.ExampleWorker" output-file="ExampleWorker.swf" output-folder="$MODULE_DIR$/../out/production/ExampleWorker" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
         <dependencies target-player="11.1">
           <entries>
             <entry library-id="1ae1e8a4-1c48-4877-bc82-59908540e53b">

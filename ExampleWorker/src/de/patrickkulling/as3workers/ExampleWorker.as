@@ -1,4 +1,4 @@
-package
+package de.patrickkulling.as3workers
 {
 
 	import de.patrickkulling.as3workers.processor.MouseClickProcessor;
