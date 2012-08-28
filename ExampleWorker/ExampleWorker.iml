@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="ExampleWorker">
+    <configurations>
+      <configuration name="ExampleWorker" pure-as="true" main-class="ExampleWorker" output-file="ExampleWorker.swf" output-folder="$MODULE_DIR$/../out/production/ExampleWorker" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-id="1ae1e8a4-1c48-4877-bc82-59908540e53b">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6_fp_11_4b" />
+        </dependencies>
+        <compiler-options>
+          <option name="additionalOptions" value="-swf-version=17 -target-player=11.4" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6_fp_11_4b" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library type="flex">
+        <properties id="1ae1e8a4-1c48-4877-bc82-59908540e53b" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../shared/src" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

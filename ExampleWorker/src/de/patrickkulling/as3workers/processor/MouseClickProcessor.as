@@ -1,0 +1,1 @@
+package de.patrickkulling.as3workers.processor{	import flash.utils.ByteArray;	public class MouseClickProcessor implements Processor	{		public function MouseClickProcessor() {}		public function process(data:ByteArray):void		{			var message:String = data.readUTF();			trace("message:", message);		}	}}

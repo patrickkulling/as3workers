@@ -1,0 +1,1 @@
+package de.patrickkulling.as3workers.message{	public class MessageID	{		public static const MOUSE_MOVE:int = 1;		public static const MOUSE_CLICK:int = 2;		public static const SEND_PING:int = 3;		public static const SEND_PONG:int = 4;	}}

@@ -1,0 +1,1 @@
+package de.patrickkulling.as3workers.processor{	import flash.utils.ByteArray;	public interface Processor	{		function process(message:ByteArray):void;	}}

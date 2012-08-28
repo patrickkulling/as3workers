@@ -1,0 +1,1 @@
+package de.patrickkulling.as3workers.processor{	import flash.utils.ByteArray;	public class ReceivePongCommand implements Command	{		public function ReceivePongCommand()		{		}		public function process(data:ByteArray):void		{			var text:String = data.readUTF();			trace(text);		}	}}

@@ -1,0 +1,1 @@
+package de.patrickkulling.as3workers.processor{	import flash.utils.ByteArray;	public class EmptyProcessor implements Processor	{		public function EmptyProcessor()		{		}		public function process(data:ByteArray):void		{		}	}}

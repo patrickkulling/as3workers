@@ -1,0 +1,1 @@
+package de.patrickkulling.as3workers.processor{	import flash.utils.ByteArray;	public class ReceivePingProcessor implements Processor	{		public function ReceivePingProcessor()		{		}		public function process(message:ByteArray):void		{			var text:String = message.readUTF();			trace(text);		}	}}
